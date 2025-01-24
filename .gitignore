@@ -7,3 +7,6 @@ dist/
 python_binance.egg-info/
 *__pycache__
 *.egg-info/
+.idea/
+venv*/
+.vscode
